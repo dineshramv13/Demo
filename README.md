@@ -1,4 +1,4 @@
 # Demo
 My first repository
 <br>
-Author - Dinesh
+Author - Dinesh Ram
